@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30983" started-at="2019-04-25T06:18:41Z" finished-at="2019-04-25T06:19:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30983" started-at="2019-04-25T06:18:41Z" finished-at="2019-04-25T06:19:12Z">
+      <class name="Casestudy01.cs_01">
+        <test-method status="PASS" signature="configurebrowser()[pri:0, instance:Casestudy01.cs_01@5e3a8624]" name="configurebrowser" is-config="true" duration-ms="17537" started-at="2019-04-25T06:18:41Z" finished-at="2019-04-25T06:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurebrowser -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:Casestudy01.cs_01@5e3a8624]" name="testLogin" duration-ms="4880" started-at="2019-04-25T06:18:59Z" finished-at="2019-04-25T06:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart1()[pri:1, instance:Casestudy01.cs_01@5e3a8624]" name="testCart1" duration-ms="719" started-at="2019-04-25T06:19:04Z" finished-at="2019-04-25T06:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart1 -->
+        <test-method status="PASS" signature="checkHandbag()[pri:2, instance:Casestudy01.cs_01@5e3a8624]" name="checkHandbag" duration-ms="1456" started-at="2019-04-25T06:19:05Z" finished-at="2019-04-25T06:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHandbag -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:Casestudy01.cs_01@5e3a8624]" name="testPayment" duration-ms="5639" started-at="2019-04-25T06:19:06Z" finished-at="2019-04-25T06:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:Casestudy01.cs_01@5e3a8624]" name="closeApplication" is-config="true" duration-ms="707" started-at="2019-04-25T06:19:12Z" finished-at="2019-04-25T06:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Casestudy01.cs_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
